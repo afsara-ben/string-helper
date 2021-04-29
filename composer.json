@@ -1,0 +1,14 @@
+{
+    "name": "afsara/string-helper",
+    "description": "test package",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "nesbot/carbon": "^2.46"
+    },
+    "autoload": {
+        "psr-4": {
+            "Afsara\\StringHelper\\": "src/"
+        }
+    }
+}
